@@ -1,6 +1,5 @@
 # Desafio 1 - Criação de uma aplicação do zero utilizando NodeJs, Express
 
-Crie uma aplicação do zero utilizando Express.
 
 Essa aplicação será utilizada para armazenar projetos e suas tarefas.
 
