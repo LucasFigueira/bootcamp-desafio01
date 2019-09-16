@@ -102,7 +102,7 @@ function checkProjectExists(req, res, next) {
 
 /**
  * Function criada para redução de código,
- * onde decide qual tipo de busca irá fazer,
+ * onde decide qual tipo de busca irá fazer
  * conforme o parâmetro passado na assinatura
  */
 function findOrFindIndex(typeOfSearch, id) {
